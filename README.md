@@ -1,4 +1,4 @@
 # senai-versoes-colaboracoes
 Repositório de versões e colaborações
 
-teste commit 
+lembrei do comando: git commit
